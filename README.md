@@ -1,9 +1,26 @@
-HTML Changes
-<!-- Title Tab -- I changed the "tab title" to its relvant website -->
-<!-- Header + Nav -- Relpaced uncessary div tags to proper semantic tags -->
-<!-- Background Image -- Removed unnecessary div to straight img tag -->
-<!-- Horizontal Blocks -- Removed unnecessary div, added section tags, added article tags, and made one 1 class to in article the same -->
-<!-- Aside -- Replaced unnecessary div with proper semantic tags, added aside tags,article tags, and changed article tags to 1 -->
-<!-- Footer -- Removed div tag and replaced with footer tag -->
+# CodeRefactor
+I refactored an available sourcecode to have better organization, SEO settings and to in general be more professionally done.
 
-CSS
+![SiteImage](Screen Shot 2021-11-10 at 7.22.11 PM)
+
+# Technologies Used
+HTML - used to create elements on the DOM
+CSS - styles html elements on page
+Git - version control system to track changes to source code
+GitHub - hosts repository that can be deployed to GitHub Pages
+
+# Summary
+This is a marketing website with improved performance.
+
+# Summary of the performance eidts
+Added comments in order to organize sections.
+
+Added HTML Semantic Elements such as (Sections, Articles, Nav, Header, Alt, & Footer)
+
+Organized some spacing matter in the CSS File so that the right tablehas the same height of the left side elements.
+
+Added comments to CSS file.
+
+Fixed SEO link, which wasn't operating properly.
+
+Organized all of CSS elements in order for better viewing and better debugging.
