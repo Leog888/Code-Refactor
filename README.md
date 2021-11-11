@@ -1,18 +1,18 @@
 # CodeRefactor
 I refactored an available sourcecode to have better organization, SEO settings and to in general be more professionally done.
 
-![SiteImage](Screen Shot 2021-11-10 at 7.22.11 PM)
+![Site Image](CodeRefactor.png)
 
-# Technologies Used
+## Technologies Used
 HTML - used to create elements on the DOM
 CSS - styles html elements on page
 Git - version control system to track changes to source code
 GitHub - hosts repository that can be deployed to GitHub Pages
 
-# Summary
+## Summary
 This is a marketing website with improved performance.
 
-# Summary of the performance eidts
+## Summary of the performance eidts
 Added comments in order to organize sections.
 
 Added HTML Semantic Elements such as (Sections, Articles, Nav, Header, Alt, & Footer)
